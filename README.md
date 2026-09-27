@@ -21,3 +21,6 @@ RAM dumps may contain sensitive information. Only analyze systems you are author
 ## Disclaimer
 
 MarsPixelDumpAnalyzer is an investigative aid for authorized PC checking. False positives and missed detections are possible.
+
+contact me on discord for bugs reports or whatever :
+zedoon
